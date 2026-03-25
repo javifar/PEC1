@@ -5,3 +5,14 @@ date: "2026-03-24"
 output: html_document
 ---
 
+#Installing and loading packages
+
+```{r}
+
+#BiocManager::install("GEOquery")
+
+library(readxl)
+library(GEOquery)
+
+```
+
